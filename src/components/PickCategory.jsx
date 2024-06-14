@@ -31,6 +31,13 @@ const PickCategory = () => {
         </button>
       ))}
 
+      <a href="/bonus.html" target="_blank" rel="noopener noreferrer">
+        <button>
+          Pergunta Bônus
+        </button>
+      </a>
+
+      
       <img src={Category} alt="Categoria do Quiz" />
     </div>
   );
